@@ -10,13 +10,13 @@ import gc;
 
 isep = 1;
 
-dirname = r'D:\2014_12_CLSPEEM\141212'
-istack_cw = "141212005";
-istack_ccw = "141212006";
+dirname = r'D:\CLS\2015_05_CLS_PEM\150513'
+istack_cw = "150513001";
+istack_ccw = "150513002";
 
-disp_energy = 540;
-pre_energy = 527;
-post_energy = 550;
+disp_energy = 1507;
+pre_energy = 1503;
+post_energy = 1513;
 
 #disp_energy = 710;
 #pre_energy = 703;
